@@ -1,0 +1,28 @@
+.DS_Store
+*.class
+*.log
+/*.log
+/src/main/webapp/upload/*
+/src/main/webapp/data/*
+/src/main/webapp/resource/baseproject/*
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+# *.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.project
+.classpath
+target/
+target/*
+.settings
+.settings/*
+.idea/
+.idea/*
+*.iml
