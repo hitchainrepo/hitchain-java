@@ -196,6 +196,11 @@
             <artifactId>snappy-java</artifactId>
             <version>1.1.7.3</version>
         </dependency>
+        <dependency>
+            <groupId>org.ethereum</groupId>
+            <artifactId>ethereumj-core</artifactId>
+            <version>1.12.0-RELEASE</version>
+        </dependency>
     </dependencies>
 
     <build>
